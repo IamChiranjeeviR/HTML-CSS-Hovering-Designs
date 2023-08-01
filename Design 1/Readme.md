@@ -1,2 +1,2 @@
 This is a Simple Hover Designs done using HTML AND CSS...
-https://iamchiranjeevir.github.io/HTML-CSS-Hovering-Designs/tree/main/Design%201
+https://iamchiranjeevir.github.io/HTML-CSS-Hovering-Designs/Design%201
